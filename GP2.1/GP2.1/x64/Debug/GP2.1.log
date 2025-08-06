@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\brenn\Documents\GP2.1\GP2.1\Game.cpp(169,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brenn\Documents\GP2.1\GP2.1\Game.cpp(193,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brenn\Documents\GP2.1\GP2.1\Game.cpp(242,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GP2.1.vcxproj -> C:\Users\brenn\Documents\GP2.1\x64\Debug\GP2.1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
